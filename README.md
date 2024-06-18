@@ -1,2 +1,2 @@
 # imjai
-https://jai-bharat.github.io/imjai/
+https://jaibharat04.github.io/imjai/
